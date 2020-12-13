@@ -1,1 +1,1 @@
-print("Ol[á mundo")
+print("Olá mundo")
